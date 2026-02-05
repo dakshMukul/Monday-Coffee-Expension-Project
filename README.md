@@ -42,16 +42,16 @@ After analyzing the data, the recommended top three cities for new store opening
 
 **City 1: Pune**  
 	1. Total revenue is highest
-   2. Total rent is lower then the others
-   3. Total estimated coffee consumers are 1.88 M 
+   	2. Total rent is lower then the others
+   	3. Total estimated coffee consumers are 1.88 M 
 
 **City 2: Delhi**  
 	1. Estimated coffee consumers are 7.75 M
-   2. Total rent is conperetively less than the other cities which is 29362500
-   3. Total customers is 68 which is high then the other cities
+   	2. Total rent is conperetively less than the other cities which is 29362500
+   	3. Total customers is 68 which is high then the other cities
 
 **City 3: Jaipur**  
 	1. Total revenue is higher then the others
-   2. Total rent is lower lowest
-   3. Estimated coffee consumers are 1M
+   	2. Total rent is lower lowest
+   	3. Estimated coffee consumers are 1M
 ---
